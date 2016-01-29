@@ -1,0 +1,8 @@
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/android/support/v7/cardview/R.java"
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/com/Alejandro/changeBackgroundColor/AssetCryptImpl.java"
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/com/Alejandro/changeBackgroundColor/ChangebackgroundcolorActivity.java"
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/com/Alejandro/changeBackgroundColor/ChangebackgroundcolorAppInfo.java"
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/com/Alejandro/changeBackgroundColor/ChangebackgroundcolorApplication.java"
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/com/Alejandro/changeBackgroundColor/R.java"
+"C:/Users/Alejandro/Documents/Appcelerator_Studio_Workspace/changeBackgroundColor/build/android/gen/ti/modules/titanium/ui/R.java"

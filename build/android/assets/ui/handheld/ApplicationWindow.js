@@ -10,10 +10,7 @@ function ApplicationWindow() {
 		heigth: 50,
 	});
 	button.addEventListener('click', function (){ 
-		
-		self.setBackgroundColor('#ff0000');
-		
-		//Si, pero no... var change = self.setBackgroundColor('#FF0000') 
+		var change = self.setBackgroundColor('#FF0000') 
 	});
 	self.add(button);
 	return self;
